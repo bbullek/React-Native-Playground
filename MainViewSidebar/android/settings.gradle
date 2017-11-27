@@ -1,0 +1,3 @@
+rootProject.name = 'MainViewSidebar'
+
+include ':app'
